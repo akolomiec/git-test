@@ -60,4 +60,4 @@ Fixed a critical bug related to faulty validation of the edited post type due to
 Release
 
 #### - 1.1 Release -
-test all
+test already
